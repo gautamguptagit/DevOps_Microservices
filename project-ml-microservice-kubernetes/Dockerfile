@@ -15,7 +15,7 @@ RUN pip install --upgrade pip &&\
     pip install --trusted-host pypi.python.org -r requirements.txt
 
 ## Step 4:
-# Expose port 80aaaaaaaaaaaa
+# Expose port 80aaaaaaaaaaaaa
 EXPOSE 80
 
 ## Step 5:
